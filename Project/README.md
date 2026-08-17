@@ -56,7 +56,7 @@ streamlit run app.py
 ## 📁 项目结构
 
 ```
-AI Generator/
+Project/
 ├── app.py                      # Streamlit 主入口
 ├── config.py                   # 全局配置
 ├── requirements.txt            # Python 依赖
