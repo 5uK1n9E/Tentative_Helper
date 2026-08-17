@@ -1,2 +1,11 @@
-# A Simple Work On Class
-There's nothing here but some bauble.
+# 小白的人工智能课程作业
+  >用AI写AI助手这一块
+
+## 项目
+  旨在通过ai辅助初步尝试通过ollama部署本地模型进行应用
+  
+  本项目是一个基于本地大语言模型的 **AI 智能助教系统**，集成了智能问答、作业批改、对话历史管理和学习报告生成四大核心功能。
+
+  详细功能介绍在项目里面 **README.md** 和 **REPORT.md** 里
+
+  仅用作**记录**以及**教学**用途。
