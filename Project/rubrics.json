@@ -1,0 +1,65 @@
+{
+  "essay": {
+    "name": "作文/简答题",
+    "max_score": 10,
+    "criteria": [
+      {
+        "name": "内容准确性",
+        "weight": 5,
+        "description": "答案是否正确、事实是否准确、论点是否有依据"
+      },
+      {
+        "name": "逻辑结构",
+        "weight": 3,
+        "description": "回答是否有条理、层次是否分明、逻辑是否自洽"
+      },
+      {
+        "name": "语言表达",
+        "weight": 2,
+        "description": "语言是否通顺、用词是否准确、有无语病"
+      }
+    ]
+  },
+  "code": {
+    "name": "编程作业",
+    "max_score": 10,
+    "criteria": [
+      {
+        "name": "功能正确性",
+        "weight": 5,
+        "description": "代码是否能正确编译运行、输出是否符合预期"
+      },
+      {
+        "name": "代码规范",
+        "weight": 3,
+        "description": "变量命名是否清晰、缩进格式是否规范、有无冗余代码"
+      },
+      {
+        "name": "算法效率",
+        "weight": 2,
+        "description": "时间复杂度和空间复杂度是否合理、是否有更优解法"
+      }
+    ]
+  },
+  "project": {
+    "name": "项目作业",
+    "max_score": 10,
+    "criteria": [
+      {
+        "name": "功能完整性",
+        "weight": 4,
+        "description": "是否实现了所有要求的功能、是否有遗漏"
+      },
+      {
+        "name": "技术深度",
+        "weight": 3,
+        "description": "使用的技术是否体现了课程所学知识、是否有深入理解"
+      },
+      {
+        "name": "创新性与文档",
+        "weight": 3,
+        "description": "是否有创新点或独特设计、文档是否完善清晰"
+      }
+    ]
+  }
+}
